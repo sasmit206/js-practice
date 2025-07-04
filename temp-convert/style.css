@@ -28,6 +28,7 @@ button{
     border: none;
     padding: 10%;
     border-radius: 5px;
+    cursor: pointer;
 }
 #result{
     font-weight: bold;
